@@ -1,4 +1,4 @@
-#Hamming Hata Düzeltme Kodu Simülatörü
+# Hamming Hata Düzeltme Kodu Simülatörü
 
 <p align="center">
   <img src="images/hamming.png" alt="Hamming Error-Correcting Code">
