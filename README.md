@@ -1,5 +1,7 @@
 # Hamming Hata Düzeltme Kodu Simülatörü
 
+![Hamming Error-Correcting Code](images/hamming.png)
+
 ## Genel Bakış
 
 Bu Hamming Hata Düzeltme Kodu Simülatörü, kullanıcıların veri bitleri için Hamming kodları oluşturmasına, yapay hatalar eklemesine ve Hamming kodu ilkelerini kullanarak hataları tespit etmesine ve düzeltmesine olanak tanıyan bir Python uygulamasıdır. Uygulama, Tkinter ile oluşturulmuş bir grafik kullanıcı arayüzüne (GUI) sahiptir ve görüntüleri görüntülemek için Python Imaging Library (PIL) kullanır.
