@@ -1,7 +1,4 @@
-<p align="center">
-  <h1>#Hamming Hata Düzeltme Kodu Simülatörü</h1>
-</p>
-
+#Hamming Hata Düzeltme Kodu Simülatörü
 
 <p align="center">
   <img src="images/hamming.png" alt="Hamming Error-Correcting Code">
