@@ -1,7 +1,7 @@
 # Hamming Hata Düzeltme Kodu Simülatörü
 
 <p align="center">
-  <img src="images/hamming.png" alt="Hamming Error-Correcting Code" width="60%" height="60%">
+  <img src="images/hamming.png" alt="Hamming Error-Correcting Code" width="50%" height="50%">
 </p>
 
 ## Genel Bakış
