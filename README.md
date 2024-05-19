@@ -32,4 +32,4 @@ Bu Hamming Hata Düzeltme Kodu Simülatörü, kullanıcıların veri bitleri iç
 
 # Usage
 
-1. **Select Data Size:** Use the radio buttons to select the appropriate data size (4, 8, or 16 bits).
+1. *Select Data Size:* Use the radio buttons to select the appropriate data size (4, 8, or 16 bits).
