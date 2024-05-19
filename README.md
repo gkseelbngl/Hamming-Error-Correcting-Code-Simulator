@@ -6,11 +6,11 @@ Bu Hamming Hata Düzeltme Kodu Simülatörü, kullanıcıların veri bitleri iç
 
 ## Özellikler
 
-- **Veri Boyutunu Seçin**: Veri girişiniz için veri boyutunu (4, 8 veya 16 bit) seçin.
-- Veri Bitlerini Girin**: Yalnızca 0 ve 1 içeren veri bitlerini girin.
-- Hamming Kodu Oluştur**: Girilen veri bitleri için Hamming kodunu otomatik olarak hesaplayın.
-- Hata Oluştur**: Belirli bir bit konumunda yapay bir hata oluşturun.
-- Hatayı Tespit Et ve Düzelt**: Hamming kodundaki hataları belirleyin ve düzeltin.
+- **Veri Boyutunu Seçin:** Veri girişiniz için veri boyutunu (4, 8 veya 16 bit) seçin.
+- **Veri Bitlerini Girin:** Yalnızca 0 ve 1 içeren veri bitlerini girin.
+- **Hamming Kodu Oluştur:** Girilen veri bitleri için Hamming kodunu otomatik olarak hesaplayın.
+- **Hata Oluştur:** Belirli bir bit konumunda yapay bir hata oluşturun.
+- **Hatayı Tespit Et ve Düzelt:** Hamming kodundaki hataları belirleyin ve düzeltin.
 
 ## Kurulum
 
