@@ -1,5 +1,5 @@
 <p align="center">
-  <h1>Hamming Hata Düzeltme Kodu Simülatörü</h1>
+  <h1>#Hamming Hata Düzeltme Kodu Simülatörü</h1>
 </p>
 
 
