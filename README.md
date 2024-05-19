@@ -20,16 +20,35 @@ Bu Hamming Hata Düzeltme Kodu Simülatörü, kullanıcıların veri bitleri iç
    git clone https://github.com/yourusername/hamming-error-correcting-code-simulator.git
    cd hamming-error-correcting-code-simulator
 
-2. **Install Dependencies**
+2. **Bağımlılıkları Yükleyin**
 
    ```sh
    pip install tkinter pillow
 
-3. **Run the Application**
+3. **Uygulamayı Çalıştırın**
 
    ```sh
    python hamming_simulator.py
 
-# Usage
+# Kullanım
 
-1. *Select Data Size:* Use the radio buttons to select the appropriate data size (4, 8, or 16 bits).
+1. **Veri Boyutunu Seçin:** Uygun veri boyutunu (4, 8 veya 16 bit) seçmek için radyo düğmelerini kullanın.
+2. **Veri Bitlerini Girin:** Veri bitlerini sağlanan giriş alanına yazın.
+3. **Hamming Kodunu Oluştur:** Girilen veri bitleri için Hamming kodunu oluşturmak için “Hamming Kodunu Oluştur” butonuna tıklayın.
+4. **Hata Oluştur (İsteğe Bağlı):** Bir hatayı simüle etmek için bit konumunu girin ve hata türünü seçin (1'e çevir veya 0'a çevir). Hatayı tanıtmak için “Hata Tanıt” butonuna tıklayın.
+5. **Hatayı Tespit Et ve Düzelt:** Hamming kodundaki hataları tespit etmek ve düzeltmek için “Hatayı Tespit Et ve Düzelt” butonuna tıklayın.
+
+# Notlar
+
+- Uygulama, veri bitlerindeki 1 bitlik hataları tespit edebilir ve düzeltebilir.
+- “Hata Tespit Et ve Düzelt” işlevini kullanmadan önce hataları tanıttığınızdan emin olun.
+- Hata tespit ve düzeltme süreci, hata konumunun ve türünün doğru bir şekilde belirlenmesine bağlıdır.
+
+# Nasıl Çalışır?
+
+Bu simülatör, veri bitlerine dayalı olarak Hamming kodlarını hesaplar ve test için yapay hatalar sunar. Hamming kodlarının hata düzeltme yeteneklerini göstermek için Hamming kodu üretimi ve hata düzeltme mantığı uygulanmaktadır.
+
+# Teşekkür
+
+- GUI bileşenleri için Tkinter kütüphanesi.
+- Görüntü işleme için PIL (Pillow) kütüphanesi.
