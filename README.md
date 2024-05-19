@@ -21,7 +21,7 @@ Bu Hamming Hata Düzeltme Kodu Simülatörü, kullanıcıların veri bitleri iç
 1. **Depoyu Klonlayın**
 
    ```sh
-   git clone https://github.com/yourusername/hamming-error-correcting-code-simulator.git
+   git clone https://github.com/gkseelbngl/hamming-error-correcting-code-simulator.git
    cd hamming-error-correcting-code-simulator
 
 2. **Bağımlılıkları Yükleyin**
