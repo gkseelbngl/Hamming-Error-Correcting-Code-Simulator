@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=0eGJaMvz1Zo" target="_blank">
-    <img src="images/video-thumbnail.jpg" alt="Demo Video Thumbnail" width="70%">
+    <img src="images/hamming.png" alt="Demo Video Thumbnail" width="70%">
   </a>
   <br>
   <em>Simülatörün çalışma anını gösteren demo videosu (tıklayarak izleyin)</em>
