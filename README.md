@@ -1,7 +1,11 @@
 # Hamming Hata Düzeltme Kodu Simülatörü
 
 <p align="center">
-  <img src="images/hamming.png" alt="Hamming Error-Correcting Code" width="50%" height="50%">
+  <a href="https://www.youtube.com/watch?v=0eGJaMvz1Zo" target="_blank">
+    <img src="images/video-thumbnail.jpg" alt="Demo Video Thumbnail" width="70%">
+  </a>
+  <br>
+  <em>Simülatörün çalışma anını gösteren demo videosu (tıklayarak izleyin)</em>
 </p>
 
 ## Genel Bakış
