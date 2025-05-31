@@ -5,7 +5,7 @@
     <img src="images/hamming.png" alt="Demo Video Thumbnail" width="70%">
   </a>
   <br>
-  <em>Simülatörün çalışma anını gösteren demo videosu (yukarıdaki şekle tıklayarak izleyin)</em>
+  <em>Simülatörün çalışma anını gösteren demo videosu (yukarıdaki logoya tıklayarak izleyin)</em>
 </p>
 
 ## Genel Bakış
